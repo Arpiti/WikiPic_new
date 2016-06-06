@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorForeground">#5e5f63</color>
+    <color name="colorBackground">#FFFBFDFD</color>
+    <color name="colorTitleBarForeground">#5e5f63</color>
+    <color name="colorTitleBarBackground">#FFFBFDFD</color>
+    <color name="transparent">#00000000</color>
+    <color name="greenTheme">#00b36b</color>
+</resources>
